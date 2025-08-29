@@ -1,10 +1,10 @@
-## Natural Language Detection using Scikit-learn
+## Natural Language Detection using Scikit-learn and Logistic Regression
 
 Detect the language of input text using Scikit-learn and machine learning classifiers.
 
 ## 📌 Description
 
-This project implements a Natural Language Detection model in Python using Scikit-learn. The notebook (LD.ipynb) demonstrates data preprocessing, TF-IDF vectorization, and training ML classifiers (Naive Bayes, Logistic Regression, SVM) to identify the language of given text.
+This project implements a Natural Language Detection model in Python using Scikit-learn. The notebook (LD.ipynb) demonstrates data preprocessing, TF-IDF vectorization, and training ML classifiers (Vectorization, Logistic Regression, SVM) to identify the language of given text.
 
 ## 🚀 Features
 
